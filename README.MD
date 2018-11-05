@@ -1,0 +1,3 @@
+* THIS IS A STAR
+
+THIS IS A LINE
